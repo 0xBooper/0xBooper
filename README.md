@@ -7,6 +7,7 @@ A few of my fav projects that I work/worked on are:
 - [A fun little tic-tac-toe game I made (read readme in it's repo)](https://github.com/0xBooper/tic-tac-yay)
 - [A app that rickrolls people](https://github.com/0xBooper/rickrolled)
 - [A collection of useful JS/TS helper functions](https://github.com/0xBooper/helperfunc)
+- [A simple and fast image viewer in Python/PyQt5](https://github.com/0xBooper/ImageSee)
 
 Speaking of my website, it's [here](https://0xBooper.github.io/index.html). I also plan to get it a custom domain, maybe like epikbooperia.net.
 
